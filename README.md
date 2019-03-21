@@ -1,8 +1,13 @@
-# Demo
 
-[Openshift by Redhat Cloud](http://telkomgifthunter-telkomgifthunter.a3c1.starter-us-west-1.openshiftapps.com/)
+# Installation
 
-[Heroku](https://telkomgifthunter.herokuapp.com/)
+ 1. Open terminal and go to your project root directory with this command `cd ~/Path-to-your-project`
+ 2. Installing `npm` package by writing this command `npm install`
+ 3. Installing `bower` package by writing this command `bower_install`
+ 4. Run the gulp to watch your LESS file change by writing this command `gulp` or `gulp watch-start`
+ 5. Happy coding every body
+
+ 
 
 # Frontend Tools:
 
@@ -10,11 +15,7 @@
 2. [Gulp](https://gulpjs.com/)
 
 
+# Frontend Depedency List:
 
-# Bower Components List:
-
-1. [Bootstrap ver.3](http://getbootstrap.com)
-2. [Parsleyjs ver.2](http://parsleyjs.org/)
-3. [Bootstrap Notify ver.3](http://bootstrap-notify.remabledesigns.com/)
-4. [Animate.css ver.3](http://daneden.github.io/animate.css/)
-
+1. [Bootstrap ver.3.4.1](http://getbootstrap.com)
+2. [jQuery](http://jquery.com)
